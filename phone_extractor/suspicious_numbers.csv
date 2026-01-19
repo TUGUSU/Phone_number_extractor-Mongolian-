@@ -1,0 +1,33 @@
+﻿row_index,token,reason
+107,5321087652,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+130,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+131,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+224,90020600,Final phone has many zeros (+4) -> suspicious (but kept in output)
+225,90020600,Final phone has many zeros (+4) -> suspicious (but kept in output)
+226,90020600,Final phone has many zeros (+4) -> suspicious (but kept in output)
+239,90020600,Final phone has many zeros (+4) -> suspicious (but kept in output)
+240,90020600,Final phone has many zeros (+4) -> suspicious (but kept in output)
+241,90020600,Final phone has many zeros (+4) -> suspicious (but kept in output)
+242,90020600,Final phone has many zeros (+4) -> suspicious (but kept in output)
+243,90020600,Final phone has many zeros (+4) -> suspicious (but kept in output)
+325,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+326,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+327,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+328,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+329,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+457,010890766,9-digit contiguous but no plausible MN 8-digit inside
+457,085397232,9-digit contiguous -> trimmed to 8
+457,0976745856,10-digit contiguous -> used last8
+1141,780005005039110093,18+ digit contiguous (bank/account/etc) Need check!!! -> NO OUTPUT
+1142,780005005039110093,18+ digit contiguous (bank/account/etc) Need check!!! -> NO OUTPUT
+1143,5039110093,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+1143,78000500,Final phone has many zeros (+4) -> suspicious (but kept in output)
+1399,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+3802,180005005059602229,18+ digit contiguous (bank/account/etc) Need check!!! -> NO OUTPUT
+5237,90000200,Final phone has many zeros (+4) -> suspicious (but kept in output)
+8312,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+8539,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+8540,3106190839,10-digit contiguous looks like bank/account/foreignnumber -> NO OUTPUT(Need check!!!)
+8681,060015003665167484,18+ digit contiguous (bank/account/etc) Need check!!! -> NO OUTPUT
+8769,80.101.32.30,Must IP address (domain/IP) Need check!!! -> NO OUTPUT
+8770,80.68.20.212,Must IP address (domain/IP) Need check!!! -> NO OUTPUT
